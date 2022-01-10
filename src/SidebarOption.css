@@ -1,0 +1,30 @@
+.sdoption {
+  display: flex;
+  font-size: 13px;
+  align-items: center;
+  cursor: pointer;
+  margin: 5px 0px;
+}
+.sdoption:hover {
+  background-color: #340e36;
+  opacity: 0.7;
+}
+.sidebar > hr {
+  margin: 10px 0px;
+  border: 2px solid #49274b;
+}
+
+.sidevarOption_icon {
+  font-size: 13px !important;
+  padding-right: 5px;
+  margin-left: 2px;
+}
+
+.sdoption_channel {
+  font-size: 16px;
+  margin: 4px 0px;
+}
+
+.sdoption_channel_hash {
+  padding: 5px;
+}

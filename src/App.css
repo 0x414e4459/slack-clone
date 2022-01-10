@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+}
+body {
+  margin: 0;
+  --slack-color: #3f0f40;
+  overflow: hidden;
+}
+.app_body {
+  display: flex;
+  height: 100vh;
+  flex: 0.35;
+}
